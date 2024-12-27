@@ -29,7 +29,7 @@ public class Duck extends Animal implements Flyable {
     }
 
     void beCrispy() {
-        System.out.println("grup grup (กรุบ ๆ)");
+        System.out.println("grup grup");
     }
     
 
